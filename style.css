@@ -258,6 +258,10 @@ header {
   height: 13rem;
   border: 1px solid #707070;
   border-radius: 0.313em;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin: 0.625em;
   padding: 0.625em;
 }
